@@ -529,8 +529,8 @@ Add complete references in your final paper/repository. Suggested references inc
 
 **Muhammad Daniyal**
 Researcher in Artificial Intelligence, Machine Learning, Big Data Analytics, and Generative AI
-GitHub: `YOUR_GITHUB_USERNAME`
-LinkedIn: `YOUR_LINKEDIN_PROFILE`
+GitHub: `daniyalsperpective`
+LinkedIn: `muhammaddaniyalmscss24`
 
 ---
 
