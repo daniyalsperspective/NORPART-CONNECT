@@ -1,0 +1,20 @@
+{
+  "Mistral-7B-Instruct-v0.3": {
+    "model": "Mistral-7B-Instruct-v0.3",
+    "accuracy": 0.9322,
+    "f1_weighted": 0.9324,
+    "f1_macro": 0.9206
+  },
+  "Qwen2-7B-Instruct": {
+    "model": "Qwen2-7B-Instruct",
+    "accuracy": 0.9247,
+    "f1_weighted": 0.925,
+    "f1_macro": 0.9149
+  },
+  "Gemma-2-9B-IT": {
+    "model": "Gemma-2-9B-IT",
+    "accuracy": 0.2024,
+    "f1_weighted": 0.3097,
+    "f1_macro": 0.305
+  }
+}

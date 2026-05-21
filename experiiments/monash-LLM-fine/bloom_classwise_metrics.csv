@@ -1,0 +1,28 @@
+model,class,precision,recall,f1_score,support,row_type
+Mistral-7B-Instruct-v0.3,Remember,0.8478,0.8797,0.8635,133,per_class
+Mistral-7B-Instruct-v0.3,Understand,0.9639,0.9449,0.9543,762,per_class
+Mistral-7B-Instruct-v0.3,Apply,0.9417,0.9343,0.938,761,per_class
+Mistral-7B-Instruct-v0.3,Analyze,0.9217,0.9164,0.9191,347,per_class
+Mistral-7B-Instruct-v0.3,Evaluate,0.9548,0.9135,0.9337,370,per_class
+Mistral-7B-Instruct-v0.3,Create,0.8826,0.9503,0.9152,443,per_class
+Mistral-7B-Instruct-v0.3,macro avg,0.9188,0.9232,0.9206,2816,aggregate
+Mistral-7B-Instruct-v0.3,weighted avg,0.9332,0.9322,0.9324,2816,aggregate
+Mistral-7B-Instruct-v0.3,accuracy,,,0.9322,2816,aggregate
+Qwen2-7B-Instruct,Remember,0.8369,0.8872,0.8613,133,per_class
+Qwen2-7B-Instruct,Understand,0.9693,0.9121,0.9398,762,per_class
+Qwen2-7B-Instruct,Apply,0.9213,0.9382,0.9297,761,per_class
+Qwen2-7B-Instruct,Analyze,0.8939,0.9222,0.9078,347,per_class
+Qwen2-7B-Instruct,Evaluate,0.9654,0.9054,0.9344,370,per_class
+Qwen2-7B-Instruct,Create,0.8828,0.9526,0.9164,443,per_class
+Qwen2-7B-Instruct,macro avg,0.9116,0.9196,0.9149,2816,aggregate
+Qwen2-7B-Instruct,weighted avg,0.9267,0.9247,0.925,2816,aggregate
+Qwen2-7B-Instruct,accuracy,,,0.9247,2816,aggregate
+Gemma-2-9B-IT,Remember,0.876,0.797,0.8346,133,per_class
+Gemma-2-9B-IT,Understand,0.9746,0.252,0.4004,762,per_class
+Gemma-2-9B-IT,Apply,0.9464,0.1393,0.2428,761,per_class
+Gemma-2-9B-IT,Analyze,1.0,0.0634,0.1192,347,per_class
+Gemma-2-9B-IT,Evaluate,1.0,0.0622,0.117,370,per_class
+Gemma-2-9B-IT,Create,0.9167,0.2731,0.4209,443,per_class
+Gemma-2-9B-IT,macro avg,0.9523,0.2645,0.3558,2816,aggregate
+Gemma-2-9B-IT,weighted avg,0.9597,0.2024,0.3097,2816,aggregate
+Gemma-2-9B-IT,accuracy,,,0.2024,2816,aggregate
