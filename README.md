@@ -1,2 +1,2 @@
 # NORPART-CONNECT
-Documentation, resources, and project work related to the NORPART-CONNECT exchange program between Sukkur IBA University and NTNU Norway.
+Research repository for Bloom’s Taxonomy classification of educational learning outcomes using open-source LLMs, including dataset preparation, zero-shot prompting, few-shot prompting, LoRA/QLoRA fine-tuning, and model evaluation.
