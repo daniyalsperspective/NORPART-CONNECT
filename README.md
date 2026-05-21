@@ -488,21 +488,6 @@ Planned extensions:
 
 ---
 
-## 🧠 Research Protocol Mnemonic
-
-Use the **PLOT** protocol:
-
-| Letter | Meaning     |
-| ------ | ----------- |
-| P      | Protocol    |
-| L      | Literature  |
-| O      | Originality |
-| T      | Trust       |
-
-> Research sirf model chalane ka naam nahi; research model ko justify, compare, explain, aur validate karne ka naam hai.
-
----
-
 ## ⚠️ Important Notes
 
 * Do not upload private API keys or Hugging Face tokens.
